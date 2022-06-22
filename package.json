@@ -11,6 +11,10 @@
     "build": "tsc",
     "prepublishOnly": "npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sinapis/miniscule-npm-deploy"
+  },
   "files": [
     "dist"
   ],
